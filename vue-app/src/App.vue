@@ -1,4 +1,7 @@
 <script>
+
+// add a comment to test
+
 import ExampleComponent from './components/ExampleComponent.vue'
 
 export default {
